@@ -4,4 +4,4 @@ House Weatherlight is an umbrella institution for a group of synergistic creativ
 
 - [Design Discipline](http://designdisciplin.com) (Status: Active)
 - [d:rev](http://drev.io/) (Status: Incubation, Semi-stealth)
-- [\["Convolution"\]](https://bugle-chihuahua-cnmm.squarespace.com/) (Status: Incubation, Stealth)
+- \[["Convolution"](https://bugle-chihuahua-cnmm.squarespace.com/)\] (Status: Incubation, Stealth)
