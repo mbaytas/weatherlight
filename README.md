@@ -1,6 +1,6 @@
 # Weatherlight
 
-House Weatherlight is an umbrella institution for a group of synergistic creative projects and ideas led by [Dr. Mehmet Aydın Baytaş](http://baytas.net/):
+House Weatherlight is an umbrella institution for a synergistic group of creative projects led by [Dr. Mehmet Aydın Baytaş](http://baytas.net/):
 
 - [Design Discipline](http://designdisciplin.com) (Status: Active)
 - [d:rev](http://drev.io/) (Status: Incubation, Semi-stealth)
