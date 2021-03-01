@@ -1,5 +1,3 @@
-# Weatherlight
-
 Weatherlight is a house of projects focusing on design, innovation, and creative production.
 
 - [Design Discipline](http://designdisciplin.com) (Status: Active)
