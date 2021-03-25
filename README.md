@@ -6,7 +6,7 @@
 Smooth-sailing innovation.
 </p>
 
-Weatherlight synthesizes value via bespoke transdisciplinary projects at the intersections of design, technology, innovation, research, and creative production.
+Weatherlight synthesizes bespoke transdisciplinary projects at the intersections of design, technology, innovation, research, and creative production.
 
 </div><!-- .row -->
 
