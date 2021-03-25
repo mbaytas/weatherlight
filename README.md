@@ -8,6 +8,10 @@ Smooth-sailing innovation.
 
 Weatherlight synthesizes value via bespoke transdisciplinary projects at the intersections of design, technology, innovation, research, and creative production.
 
+</div><!-- .row -->
+
+<div class="row mb-3 small" markdown="1">
+
 Our capabilities and experience includes:
 
 - Research and innovation strategy, end-to-end project design, and funding
