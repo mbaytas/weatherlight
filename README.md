@@ -52,10 +52,10 @@ Our capabilities and experience includes:
 
 
 <dl class="row mb-5 small">
-<dt class="col-5">
+<dt class="col-4">
 Business Inquiries
 </dt>
-<dd class="col-7" markdown="1">
+<dd class="col-8" markdown="1">
 [first-contact@weatherlight.com](mailto:first-contact@weatherlight.com)
 </dd>
 </dl>
