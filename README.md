@@ -9,11 +9,13 @@ We generate our own initiatives and content while taking on limited client work.
 </div><!-- .row -->
 
 
-<div class="row mb-5 small" markdown="1">
+<div class="row mb-3 small" markdown="1">
 
-In-house projects include:
+In-house projects:
 
-<dl class="row">
+</div><!-- .row -->
+
+<dl class="row mb-5 small">
 
 <dt class="col-5 lowkey">
 Design Discipline
@@ -30,8 +32,6 @@ d:rev
 </dd>
 
 </dl>
-
-</div><!-- .row -->
 
 
 <div class="row mb-3 small" markdown="1">
