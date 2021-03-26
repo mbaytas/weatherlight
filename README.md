@@ -31,11 +31,17 @@ Our capabilities and experience includes:
 
 <div class="row mb-5" markdown="1">
 
-Our projects include:
+Our in-house projects include:
 
 - [Design Discipline])(https://designdisciplin.io)
+- [d:rev](https://drev.io)
 
 </div><!-- .row -->
 
+<div class="row mb-5 small" markdown="1">
+
+[first-contact@weatherlight.com](mailto:first-contact@weatherlight.com)
+
+</div><!-- .row -->
 
 </div><!-- .container -->
