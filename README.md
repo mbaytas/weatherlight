@@ -19,14 +19,14 @@ We generate our own projects, initiatives, and content while taking on limited c
 Design Discipline
 </dt>
 <dd class="col-8" markdown="1">
-[designdisciplin.com &#x2197;&#xfe0f;](http://www.designdisciplin.com)
+[designdisciplin.com &#x2197;&#xfe0e;](http://www.designdisciplin.com)
 </dd>
 
 <dt class="col-4">
 d:rev
 </dt>
 <dd class="col-8" markdown="1">
-[drev.io &#x2197;&#xfe0f;](https://www.drev.io)
+[drev.io &#x2197;&#xfe0e;](https://www.drev.io)
 </dd>
 
 </dl>
