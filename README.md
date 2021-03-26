@@ -27,7 +27,7 @@ Design Discipline
 <dt class="col-5 lowkey">
 d:rev
 </dt>
-<dd class="col-7" markdown="1">
+<dd class="col-7">
 <a href="https://www.drev.io" target="_blank">drev.io <small>&#x2197;&#xfe0e;</small></a>
 </dd>
 
