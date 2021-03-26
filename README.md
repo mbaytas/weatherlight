@@ -13,7 +13,7 @@ We generate our own projects, initiatives, and content while taking on limited c
 
 <p>In-house projects include:</p>
 
-<dl>
+<dl class="row">
 
 <dt class="col-4">
 Design Discipline
