@@ -33,7 +33,7 @@ Our capabilities and experience includes:
 
 Our in-house projects include:
 
-- [Design Discipline])(https://designdisciplin.io)
+- [Design Discipline](https://designdisciplin.io)
 - [d:rev](https://drev.io)
 
 </div><!-- .row -->
