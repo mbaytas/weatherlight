@@ -15,14 +15,14 @@ In-house projects include:
 
 <dl class="row">
 
-<dt class="col-5">
+<dt class="col-5 lowkey">
 Design Discipline
 </dt>
 <dd class="col-7" markdown="1">
 [designdisciplin.com <small>&#x2197;&#xfe0e;</small>](http://www.designdisciplin.com)
 </dd>
 
-<dt class="col-5">
+<dt class="col-5 lowkey">
 d:rev
 </dt>
 <dd class="col-7" markdown="1">
