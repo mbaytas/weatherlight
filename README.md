@@ -19,7 +19,7 @@ We generate our own projects, initiatives, and content while taking on limited c
 Design Discipline
 </dt>
 <dd class="col-8" markdown="1">
-[designdisciplin.com &#x2197;&#xfe0e;](http://www.designdisciplin.com)
+[designdisciplin.com <sup>&#x2197;&#xfe0e;</sup>](http://www.designdisciplin.com)
 </dd>
 
 <dt class="col-4">
