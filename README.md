@@ -1,12 +1,14 @@
 <div class="container container-narrow py-5 mx-auto">
 
-<div class="row mb-3" markdown="1">
+<div class="row mb-5" markdown="1">
 
 <p class="lead">
 Smooth-sailing innovation.
 </p>
 
 Weatherlight synthesizes bespoke transdisciplinary projects at intersections of design, technology, innovation, research, and creative production.
+
+We generate our own projects, initiatives, and content while taking on limited client work.
 
 </div><!-- .row -->
 
@@ -17,7 +19,7 @@ Our capabilities and experience includes:
 - Research and innovation strategy, project design, and funding
 - Organization design for creativity and innovation
 - Foresight and positioning guidance
-- Value articulation
+- Visual communication and editorial design
 - Prototyping
 - Research methodology
 - Talent search and evaluation
@@ -25,5 +27,15 @@ Our capabilities and experience includes:
 - Academic-commercial partnerships
 
 </div><!-- .row -->
+
+
+<div class="row mb-5" markdown="1">
+
+Our projects include:
+
+- [Design Discipline])(https://designdisciplin.io)
+
+</div><!-- .row -->
+
 
 </div><!-- .container -->
