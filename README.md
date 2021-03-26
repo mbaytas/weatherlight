@@ -34,7 +34,7 @@ d:rev
 </div><!-- .row -->
 
 
-<div class="row mb-5 small" markdown="1">
+<div class="row mb-3 small" markdown="1">
 
 Our capabilities and experience includes:
 
@@ -51,14 +51,9 @@ Our capabilities and experience includes:
 </div><!-- .row -->
 
 
-<dl class="row mb-5 small">
-<dt class="col-4">
-Business Inquiries
-</dt>
-<dd class="col-8" markdown="1">
-[first-contact@weatherlight.com](mailto:first-contact@weatherlight.com)
-</dd>
-</dl>
+<div class="row mb-5 small" markdown="1">
+Business Inquiries: [first-contact@weatherlight.com](mailto:first-contact@weatherlight.com)
+</div><!-- .row -->
 
 
 </div><!-- .container -->
