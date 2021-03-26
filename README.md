@@ -33,10 +33,27 @@ Our capabilities and experience includes:
 
 Our in-house projects include:
 
-- [Design Discipline](https://designdisciplin.io)
-- [d:rev](https://drev.io)
+
+<dl class="row mb-5">
+
+<dt class="col-4">
+Design Discipline
+</dt>
+<dd class="col-8" markdown="1">
+[designdisciplin.com](http://www.designdisciplin.com)
+</dd>
+
+<dt class="col-4">
+d:rev
+</dt>
+<dd class="col-8" markdown="1">
+[drev.io](https://www.drev.io)
+</dd>
+
+</dl>
 
 </div><!-- .row -->
+
 
 <div class="row mb-5 small" markdown="1">
 
