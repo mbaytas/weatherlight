@@ -6,7 +6,7 @@
 Smooth-sailing innovation.
 </p>
 
-Weatherlight synthesizes bespoke transdisciplinary projects at the intersections of design, technology, innovation, research, and creative production.
+Weatherlight synthesizes bespoke transdisciplinary projects at intersections of design, technology, innovation, research, and creative production.
 
 </div><!-- .row -->
 
@@ -14,15 +14,15 @@ Weatherlight synthesizes bespoke transdisciplinary projects at the intersections
 
 Our capabilities and experience includes:
 
-- Research and innovation strategy, end-to-end project design, and funding
-- Talent search and evaluation
+- Research and innovation strategy, project design, and funding
 - Organization design for creativity and innovation
 - Foresight and positioning guidance
 - Value articulation
 - Prototyping
 - Research methodology
-- Academic-commercial partnerships
+- Talent search and evaluation
 - Curriculum design and delivery
+- Academic-commercial partnerships
 
 </div><!-- .row -->
 
