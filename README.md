@@ -36,7 +36,11 @@ d:rev
 
 <div class="row mb-3 small" markdown="1">
 
-Our capabilities and experience includes:
+Exemplary capabilities and experience:
+
+</div><!-- .row -->
+
+<div class="row mb-5 small" markdown="1">
 
 - Research and innovation strategy, project design, and funding.
 - Organization design for creativity and innovation.
