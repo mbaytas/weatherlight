@@ -26,7 +26,7 @@ Design Discipline
 d:rev
 </dt>
 <dd class="col-8" markdown="1">
-[drev.io &#x2197;&#xfe0e;](https://www.drev.io)
+[drev.io <sup>&#x2197;&#xfe0e;</sup>](https://www.drev.io)
 </dd>
 
 </dl>
