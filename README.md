@@ -34,7 +34,7 @@ d:rev
 </div><!-- .row -->
 
 
-<div class="row mb-3 small" markdown="1">
+<div class="row mb-5 small" markdown="1">
 
 Our capabilities and experience includes:
 
