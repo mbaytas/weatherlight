@@ -9,9 +9,9 @@ We generate our own projects, initiatives, and content while taking on limited c
 </div><!-- .row -->
 
 
-<div class="row mb-5">
+<div class="row mb-5" markdown="1">
 
-<p>In-house projects include:</p>
+In-house projects include:
 
 <dl class="row">
 
@@ -19,14 +19,14 @@ We generate our own projects, initiatives, and content while taking on limited c
 Design Discipline
 </dt>
 <dd class="col-8" markdown="1">
-[designdisciplin.com <sup>&#x2197;&#xfe0e;</sup>](http://www.designdisciplin.com)
+[designdisciplin.com <small>&#x2197;&#xfe0e;</small>](http://www.designdisciplin.com)
 </dd>
 
 <dt class="col-4">
 d:rev
 </dt>
 <dd class="col-8" markdown="1">
-[drev.io <sup>&#x2197;&#xfe0e;</sup>](https://www.drev.io)
+[drev.io <small>&#x2197;&#xfe0e;</small>](https://www.drev.io)
 </dd>
 
 </dl>
