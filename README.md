@@ -38,15 +38,15 @@ d:rev
 
 Our capabilities and experience includes:
 
-- Research and innovation strategy, project design, and funding
-- Organization design for creativity and innovation
-- Foresight and positioning guidance
-- Visual communication and editorial design
-- Prototyping
-- Research methodology
-- Talent search and evaluation
-- Curriculum design and delivery
-- Academic-commercial partnerships
+- Research and innovation strategy, project design, and funding.
+- Organization design for creativity and innovation.
+- Foresight and positioning guidance.
+- Visual communication and editorial design.
+- Prototyping.
+- Research methodology.
+- Talent search and evaluation.
+- Curriculum design and delivery.
+- Academic-commercial partnerships.
 
 </div><!-- .row -->
 
