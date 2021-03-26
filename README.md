@@ -2,10 +2,6 @@
 
 <div class="row mb-5" markdown="1">
 
-<p class="lead">
-Smooth-sailing innovation.
-</p>
-
 Weatherlight synthesizes bespoke transdisciplinary projects at intersections of design, technology, innovation, research, and creative production.
 
 We generate our own projects, initiatives, and content while taking on limited client work.
@@ -13,9 +9,9 @@ We generate our own projects, initiatives, and content while taking on limited c
 </div><!-- .row -->
 
 
-<div class="row mb-5" markdown="1">
+<div class="row mb-5">
 
-Our in-house projects include:
+<p>In-house projects include:</p>
 
 <dl>
 
@@ -23,14 +19,14 @@ Our in-house projects include:
 Design Discipline
 </dt>
 <dd class="col-8" markdown="1">
-[designdisciplin.com ↗](http://www.designdisciplin.com) ↗
+[designdisciplin.com ↗](http://www.designdisciplin.com)
 </dd>
 
 <dt class="col-4">
 d:rev
 </dt>
 <dd class="col-8" markdown="1">
-[drev.io ↗](https://www.drev.io) ↗
+[drev.io ↗](https://www.drev.io)
 </dd>
 
 </dl>
