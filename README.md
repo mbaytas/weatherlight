@@ -46,7 +46,7 @@ Exemplary capabilities and experience:
 - Organization design for creativity and innovation.
 - Foresight and positioning guidance.
 - Visual communication and editorial design.
-- Prototyping.
+- Product conception, prototyping, and engineering.
 - Research methodology.
 - Talent search and evaluation.
 - Curriculum design and delivery.
