@@ -2,9 +2,9 @@
 
 <div class="row mb-5" markdown="1">
 
-Weatherlight synthesizes bespoke transdisciplinary projects at intersections of design, technology, innovation, research, and creative production.
+Weatherlight synthesizes transdisciplinary projects at intersections of design, technology, innovation, research, and creative production.
 
-We generate our own projects, initiatives, and content while taking on limited client work.
+We focus our own initiatives and content while taking on a limited client work.
 
 </div><!-- .row -->
 
