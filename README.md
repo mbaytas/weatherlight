@@ -17,7 +17,7 @@ We generate our own projects, initiatives, and content while taking on limited c
 
 Our in-house projects include:
 
-<dl class="row mb-5">
+<dl>
 
 <dt class="col-4">
 Design Discipline
@@ -55,20 +55,14 @@ Our capabilities and experience includes:
 </div><!-- .row -->
 
 
-<div class="row mb-5" markdown="1">
-
-<dl class="row mb-5">
-
+<dl class="row mb-5 small">
 <dt class="col-4">
 Business Inquiries
 </dt>
 <dd class="col-8" markdown="1">
 [first-contact@weatherlight.com](mailto:first-contact@weatherlight.com)
 </dd>
-
 </dl>
-
-</div><!-- .row -->
 
 
 </div><!-- .container -->
