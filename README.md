@@ -9,7 +9,7 @@ We generate our own projects, initiatives, and content while taking on limited c
 </div><!-- .row -->
 
 
-<div class="row mb-5" markdown="1">
+<div class="row mb-5 small" markdown="1">
 
 In-house projects include:
 
