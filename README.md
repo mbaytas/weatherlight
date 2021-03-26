@@ -15,17 +15,17 @@ In-house projects include:
 
 <dl class="row">
 
-<dt class="col-4">
+<dt class="col-5">
 Design Discipline
 </dt>
-<dd class="col-8" markdown="1">
+<dd class="col-7" markdown="1">
 [designdisciplin.com <small>&#x2197;&#xfe0e;</small>](http://www.designdisciplin.com)
 </dd>
 
-<dt class="col-4">
+<dt class="col-5">
 d:rev
 </dt>
-<dd class="col-8" markdown="1">
+<dd class="col-7" markdown="1">
 [drev.io <small>&#x2197;&#xfe0e;</small>](https://www.drev.io)
 </dd>
 
@@ -52,10 +52,10 @@ Our capabilities and experience includes:
 
 
 <dl class="row mb-5 small">
-<dt class="col-4">
+<dt class="col-5">
 Business Inquiries
 </dt>
-<dd class="col-8" markdown="1">
+<dd class="col-7" markdown="1">
 [first-contact@weatherlight.com](mailto:first-contact@weatherlight.com)
 </dd>
 </dl>
