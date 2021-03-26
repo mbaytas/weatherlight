@@ -4,7 +4,7 @@
 
 Weatherlight synthesizes transdisciplinary projects at intersections of design, technology, innovation, research, and creative production.
 
-We focus our own initiatives and content while taking on a limited client work.
+We generate our own initiatives and content while taking on limited client work.
 
 </div><!-- .row -->
 
