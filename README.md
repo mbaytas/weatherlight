@@ -56,7 +56,7 @@ Exemplary capabilities and experience:
 
 
 <div class="row mb-5 small" markdown="1">
-<span class="lowkey">Business Inquiries:</span> [first-contact@weatherlight.com](mailto:first-contact@weatherlight.com)
+<span class="lowkey">Business Inquiries:</span> [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)
 </div><!-- .row -->
 
 
