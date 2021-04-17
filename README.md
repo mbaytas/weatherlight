@@ -2,7 +2,7 @@
 
 <div class="row mb-5" markdown="1">
 
-Weatherlight is a studio and laboratory that synthesizes unprecedented transdisciplinary projects at intersections of design, engineering, innovation, strategy, research, and creative production.
+Weatherlight is a studio and laboratory that synthesizes transdisciplinary projects at intersections of design, engineering, software, innovation, strategy, research, and creative production.
 
 We generate our own initiatives and content while taking on limited client work.
 
