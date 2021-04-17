@@ -18,7 +18,7 @@ In-house projects:
 <dl class="row mb-5 small">
 
 <dt class="col-5 lowkey">
-Design Discipline
+Design Disciplin
 </dt>
 <dd class="col-7">
 <a href="https://www.designdisciplin.com" target="_blank">designdisciplin.com <small>&#x2197;&#xfe0e;</small></a>
