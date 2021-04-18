@@ -11,16 +11,4 @@ d:rev &#8231; <a href="https://www.drev.io" target="_blank">drev.io <small>&#x21
 
 ---
 
-*Exemplary capabilities and experience:*
-
-- *Research and innovation strategy, project design, and funding*
-- *Organization design for creativity and innovation*
-- *Foresight*
-- *Concept and prototype development*
-- *Research methodology*
-- *Talent search and evaluation*
-- *Academic-commercial partnerships* 
-
----
-
 *Business Inquiries: [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)*
