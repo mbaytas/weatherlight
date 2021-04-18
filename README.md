@@ -1,63 +1,25 @@
-<div class="container container-narrow py-5 mx-auto">
-
-<div class="row mb-5" markdown="1">
-
-Weatherlight is a studio and laboratory that synthesizes transdisciplinary projects at intersections of design, engineering, software, innovation, strategy, research, and creative production.
+Weatherlight is a studio and laboratory that synthesizes transdisciplinary projects at intersections of design, engineering, strategy, research, and creative production.
 
 We generate our own initiatives and content while taking on limited client work.
 
-</div><!-- .row -->
-
-
-<div class="row mb-3 small" markdown="1">
-
 In-house projects:
 
-</div><!-- .row -->
-
-<dl class="row mb-5 small">
-
-<dt class="col-5 lowkey">
 Design Disciplin
-</dt>
-<dd class="col-7">
-<a href="https://www.designdisciplin.com" target="_blank">designdisciplin.com <small>&#x2197;&#xfe0e;</small></a>
-</dd>
+: <a href="https://www.designdisciplin.com" target="_blank">designdisciplin.com <small>&#x2197;&#xfe0e;</small></a>
 
-<dt class="col-5 lowkey">
 d:rev
-</dt>
-<dd class="col-7">
-<a href="https://www.drev.io" target="_blank">drev.io <small>&#x2197;&#xfe0e;</small></a>
-</dd>
-
-</dl>
-
-
-<div class="row mb-3 small" markdown="1">
+: <a href="https://www.drev.io" target="_blank">drev.io <small>&#x2197;&#xfe0e;</small></a>
 
 Exemplary capabilities and experience:
 
-</div><!-- .row -->
+- Research and innovation strategy, project design, and funding
+- Organization design for creativity and innovation
+- Foresight and positioning guidance
+- Visual communication and editorial design
+- Product conception, prototyping, and engineering
+- Research methodology
+- Talent search and evaluation
+- Curriculum design and delivery
+- Academic-commercial partnerships
 
-<div class="row mb-5 small" markdown="1">
-
-- Research and innovation strategy, project design, and funding.
-- Organization design for creativity and innovation.
-- Foresight and positioning guidance.
-- Visual communication and editorial design.
-- Product conception, prototyping, and engineering.
-- Research methodology.
-- Talent search and evaluation.
-- Curriculum design and delivery.
-- Academic-commercial partnerships.
-
-</div><!-- .row -->
-
-
-<div class="row mb-5 small" markdown="1">
-<span class="lowkey">Business Inquiries:</span> [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)
-</div><!-- .row -->
-
-
-</div><!-- .container -->
+<*>Business Inquiries: [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)*
