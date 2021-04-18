@@ -15,12 +15,10 @@ d:rev &#8231; <a href="https://www.drev.io" target="_blank">drev.io <small>&#x21
 
 - *Research and innovation strategy, project design, and funding*
 - *Organization design for creativity and innovation*
-- *Foresight and positioning guidance*
-- *Visual communication and editorial design*
-- *Product conception, prototyping, and engineering*
+- *Foresight*
+- *Concept and prototype development*
 - *Research methodology*
 - *Talent search and evaluation*
-- *Curriculum design and delivery*
 - *Academic-commercial partnerships* 
 
 ---
