@@ -22,4 +22,4 @@ Exemplary capabilities and experience:
 - Curriculum design and delivery
 - Academic-commercial partnerships
 
-<*>Business Inquiries: [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)*
+*Business Inquiries: [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)*
