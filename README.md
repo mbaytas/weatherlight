@@ -2,12 +2,11 @@ Weatherlight is a studio and laboratory that synthesizes transdisciplinary proje
 
 ---
 
-In-house projects:
+*In-house projects:*
 
-Design Disciplin &#8231; [designdisciplin.com](https://www.designdisciplin.com)
+*Design Disciplin &#8231; [designdisciplin.com](https://www.designdisciplin.com)*
 
-
-d:rev &#8231; [drev.io](https://www.drev.io)
+*d:rev &#8231; [drev.io](https://www.drev.io)*
 
 ---
 
