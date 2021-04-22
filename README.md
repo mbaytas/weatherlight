@@ -14,8 +14,6 @@ Weatherlight is a studio and laboratory that synthesizes transdisciplinary proje
 
 ---
 
-### Showcase
-
 <div class="ratio-16x9">
 <iframe src="https://www.youtube.com/embed/IVMFvLN44Ts" allowfullscreen></iframe>
 </div>
