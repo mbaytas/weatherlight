@@ -17,7 +17,7 @@ Weatherlight is a studio and laboratory that synthesizes transdisciplinary proje
 ### Showcase
 
 <div class="ratio-16x9">
-<iframe src="https://www.youtube.com/watch?v=IVMFvLN44Ts" allowfullscreen></iframe>
+<iframe src="https://youtu.be/IVMFvLN44Ts" allowfullscreen></iframe>
 </div>
 
 *Sponsors: Qualisys AB, Chalmers University of Technology. Capabilities: End-to-end video production, interaction design, robotics and mechatronics, software development.*
