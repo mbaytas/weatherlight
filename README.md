@@ -2,12 +2,12 @@ Weatherlight is a studio and laboratory that synthesizes transdisciplinary proje
 
 ---
 
-Projects:
+*Projects:
 
 Design Disciplin
 : [designdisciplin.com](https://www.designdisciplin.com)
 
-Human-Drone Interaction Showcase: Qualisys x Bitcraze x Chalmers University
+Human-Drone Interaction Showcase for Qualisys AB
 : [Video](https://www.youtube.com/watch?v=IVMFvLN44Ts)
 
 ---
