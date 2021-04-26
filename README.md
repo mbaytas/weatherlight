@@ -4,14 +4,14 @@ Weatherlight is a studio and laboratory that synthesizes transdisciplinary proje
 
 Projects:
 
-Design Disciplin &#8231; [designdisciplin.com](https://www.designdisciplin.com)
+Design Disciplin
+:[designdisciplin.com](https://www.designdisciplin.com)
+
+Human-Drone Interaction Showcase: Qualisys x Bitcraze x Chalmers University
+: [Video](https://www.youtube.com/watch?v=IVMFvLN44Ts)
 
 ---
 
 Business Inquiries: [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)
 
 ---
-
-<div class="ratio-16x9">
-<iframe src="https://www.youtube.com/embed/IVMFvLN44Ts" allowfullscreen></iframe>
-</div>
