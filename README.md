@@ -2,13 +2,12 @@ Weatherlight is a studio and laboratory that synthesizes transdisciplinary proje
 
 ---
 
-*Projects:*
-
-*Design Disciplin &#8231; [designdisciplin.com](https://www.designdisciplin.com)*
+Projects:  
+Design Disciplin &#8231; [designdisciplin.com](https://www.designdisciplin.com)
 
 ---
 
-*Business Inquiries: [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)*
+Business Inquiries: [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)
 
 ---
 
