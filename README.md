@@ -2,7 +2,8 @@ Weatherlight is a studio and laboratory that synthesizes transdisciplinary proje
 
 ---
 
-Projects:  
+Projects:
+
 Design Disciplin &#8231; [designdisciplin.com](https://www.designdisciplin.com)
 
 ---
