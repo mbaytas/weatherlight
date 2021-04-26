@@ -12,6 +12,6 @@ Human-Drone Interaction Showcase for Qualisys AB
 
 ---
 
-Business Inquiries: [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)
+[firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)
 
 ---
