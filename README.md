@@ -1,8 +1,8 @@
-We are an independent, distributed interaction design research studio that creates artifacts for the home that we want to live in.
+We are an independent interaction design research studio.
 
 ---
 
-*Coming soon.*
+Coming soon.
 
 ---
 
