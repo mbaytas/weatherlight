@@ -15,8 +15,8 @@ Weatherlight is an independent design research studio.
 
 *Research for Design*
 
-*\[Coming Soon\]*  
-*[10.1145/3411764.3445737](https://doi.org/10.1145/3411764.3445737)*  
+*\[Coming Soon\]*
+: *[10.1145/3411764.3445737](https://doi.org/10.1145/3411764.3445737)*  
 *[10.1145/3290605.3300480](https://doi.org/10.1145/3290605.3300480)*  
 *[10.1145/3196709.3196778](https://doi.org/10.1145/3196709.3196778)*
 
