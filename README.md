@@ -1,8 +1,8 @@
 Weatherlight is an independent design research studio.
 
----
+![](img/v1.png)
 
-**Research through Design**
+*Research through Design*
 
 *\[Coming Soon\]*  
 *[10.1145/3411764.3445052](https://doi.org/10.1145/3411764.3445052)*  
@@ -11,18 +11,14 @@ Weatherlight is an independent design research studio.
 *[10.1145/3313831.3376786](https://doi.org/10.1145/3313831.3376786)*  
 *[10.1145/3290607.3313274](https://doi.org/10.1145/3290607.3313274)*
 
-**Research for Design**
+*Research for Design*
 
 *\[Coming Soon\]*  
 *[10.1145/3411764.3445737](https://doi.org/10.1145/3411764.3445737)*  
 *[10.1145/3290605.3300480](https://doi.org/10.1145/3290605.3300480)*  
 *[10.1145/3196709.3196778](https://doi.org/10.1145/3196709.3196778)*
 
-**Research into Design**
+*Research into Design*
 
 Design Disciplin
 : [designdisciplin.com](https://www.designdisciplin.com/)
-
----
-
-![](img/v1.png)
