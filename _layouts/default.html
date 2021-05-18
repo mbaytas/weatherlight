@@ -92,16 +92,12 @@ a {
 .grid {        
   display: grid;
   grid-gap: 6vmin;
-  grid-template-columns: 1fr;
+  grid-template-columns: minmax(1rem, 1fr);
   max-width: 800px;
   margin: 0 auto;
   padding: 8rem 1.6rem;
 }
-@media (max-width: 800px) {
-  .grid {
-      grid-template-columns: minmax(1rem, 1fr);
-  }
-}     
+
 pre {
   padding: 1.6rem;
 }
