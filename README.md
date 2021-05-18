@@ -20,5 +20,3 @@ Design Disciplin
 ---
 
 Inquiries: [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)
-
----
