@@ -24,3 +24,5 @@ Design Disciplin
 : [designdisciplin.com](https://www.designdisciplin.com/)
 
 ---
+
+![](img/v1.png)
