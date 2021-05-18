@@ -24,5 +24,3 @@ Design Disciplin
 : [designdisciplin.com](https://www.designdisciplin.com/)
 
 ---
-
-Inquiries: [firstcontact@weatherlight.com](mailto:firstcontact@weatherlight.com)
