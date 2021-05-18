@@ -1,5 +1,7 @@
 ![](img/v1.png)
 
+---
+
 Weatherlight is an independent design research studio.
 
 ---
