@@ -4,12 +4,12 @@ Weatherlight is an independent design research studio.
 
 ***Research through Design***
 
-\[Coming soon\]
+*\[Coming soon\]*
 
 
 ***Research for Design***
 
-\[Coming soon\]
+*\[Coming soon\]*
 
 
 ***Research into Design***
