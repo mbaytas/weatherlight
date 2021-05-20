@@ -2,7 +2,7 @@
 
 ---
 
-Weatherlight is an independent design research studio.
+Weatherlight is an independent, distributed interaction design research studio that creates artifacts for the home we want to live in.
 
 ---
 
