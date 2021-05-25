@@ -97,28 +97,27 @@ a {
 }
 
   
-/* Rastersystem */
+/* LAYOUT: Full-width */
   
-.gridsystem {        
-  display: grid;
-  grid-gap: 0;
-  margin: 0 auto;
-  padding: 1.6rem;
-  grid-template-columns: 20rem minmax(1rem, 1fr) minmax(1rem, 1fr) minmax(1rem, 1fr) minmax(1rem, 1fr);
-}
-  
-pre {
-  padding: 1.6rem;
-}
-  
-dl {
-  display: grid;
-  grid-column-gap: 2vmin;
-  grid-template-columns: 4fr 1fr;
-  font-size: 0.8rem;
-}
-dd {
+nav {
+  height: 100%;
   margin: 0;
+  padding: 1.6rem;
+  position: fixed;
+  width: 80rem;
+}
+  
+.container {
+  height: 100%;
+  margin-left: 80rem;
+}
+  
+main {
+  padding: 1.6rem;
+}
+  
+footer {
+  padding: 1.6rem;
 }
 
 /* Special Elements */
@@ -159,7 +158,6 @@ hr {
 </head>
 
 <body>
-<div class="gridsystem index">
   
 <nav>
 <h1>Design Disciplin</h1>
@@ -185,18 +183,22 @@ hr {
   
 </nav>
   
-<article>
+<div class="container">
+  
+<main>
 
   {{ content }}
 
-</article>
-  
+</main>
+
 <footer>
 <p><em>Weatherlight AB<br>41318 Göteborg SE</em></p>
 <p><em>firstcontact@weatherlight.com</em></p>
 </footer>
-  
-</div><!-- .container -->  
 
+  
+<div class="container">
+  
+  
 </body>
 </html>
