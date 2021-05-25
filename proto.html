@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Weatherlight</title> 
+<meta name="description" content="Smooth-sailing innovation" />
+<link rel="canonical" href="https://www.weatherlight.com" />
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"><link rel="stylesheet" href="https://use.typekit.net/egm0lqu.css">
+
+  
+<style>
+  
+/* Microtypography */
+  
+body {
+  font-family: 'neue-haas-unica', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6em;
+  text-underline-offset: 0.1em;
+}
+code, kbd, pre, samp {
+  font-family: 'Space Mono';
+  font-size: 0.8rem;
+  overflow: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+pre,
+ul {
+  margin: 1.6rem 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 1rem;
+  font-weight: 700;
+}
+h1, h2 {
+  margin-top: 1.6rem;
+}
+h3,
+h4,
+h5,
+h6 {
+    font-size: 1rem;
+    margin-top: 1.6rem;
+}
+em {
+  font-style: inherit;
+  font-size: .8rem;
+}
+dl dt {
+  font-weight: inherit;
+}
+ul {
+  list-style-type: square;
+  padding: inherit;
+}
+ul ul {
+  padding: revert;
+}
+nav a {
+  text-decoration: none;
+}
+
+/* Color */
+  
+body {
+  color: #000;
+  background-color: #fff;
+}
+a {
+  color: #000; 
+}
+footer {
+  color: #888;
+}
+
+/* Rastersystem */
+  
+.gridsystem {        
+  display: grid;
+  grid-gap: 0;
+  margin: 0 auto;
+  padding: 1.6rem;
+  grid-template-columns: 20rem minmax(1rem, 1fr) minmax(1rem, 1fr) minmax(1rem, 1fr) minmax(1rem, 1fr);
+}
+  
+.gridsystem .nav {
+  background-color: #000;
+  color: #fff;
+}
+
+pre {
+  padding: 1.6rem;
+}
+  
+dl {
+  display: grid;
+  grid-column-gap: 2vmin;
+  grid-template-columns: 4fr 1fr;
+  font-size: 0.8rem;
+}
+dd {
+  margin: 0;
+}
+
+/* Misc */
+
+nav h1 {
+  background-color: #888;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  padding: 0 1em;
+  margin-left: -1em;
+}
+  
+img {
+  width: 100%;
+}
+
+p code {
+  background: #ddd;
+  padding: 0.08rem 0.32rem;
+}
+  
+hr {
+  border: none;
+  height: 0;
+  margin: 1.55rem 0;
+}
+  
+.ratio-16x9 {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+.ratio-16x9 iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+  
+</style>
+    
+</head>
+
+<body>
+<div class="gridsystem index">
+  
+<nav>
+<h1>Design Disciplin</h1>
+  
+<ul>
+  <li>Home</li>
+  <li>About</li>
+  <li>Bookstore</li>
+</ul>
+  
+<ul>
+  <li>Concepts</li>
+  <li>Conversations</li>
+  <li>Case Studies</li>
+  <li>Office Hours</li>
+</ul>
+  
+<ul>
+  <li>Courses</li>
+  <li>Books</li>
+  <li>Merch</li>
+</ul>
+  
+</nav>
+  
+<article>
+
+  {{ content }}
+
+</article>
+  
+<footer>
+<p><em>Weatherlight AB<br>41318 Göteborg SE</em></p>
+<p><em>firstcontact@weatherlight.com</em></p>
+</footer>
+  
+</div><!-- .container -->  
+
+</body>
+</html>
