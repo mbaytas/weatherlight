@@ -2,10 +2,6 @@
 
 ---
 
-Weatherlight is an independent interaction design research institution.
-
----
-
 *[10.1145/3411764.3445052](https://doi.org/10.1145/3411764.3445052)*  
 *[10.1145/3406324.3410538](https://doi.org/10.1145/3406324.3410538)*  
 *[10.1145/3357236.3395589](https://doi.org/10.1145/3357236.3395589)*  
